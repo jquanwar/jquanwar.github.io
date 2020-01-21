@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# Jose's Github, Welcome!
+title: Test Website Title
+description: Test Description
 
 ## Heading 2
 Content should go here
