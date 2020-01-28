@@ -4,7 +4,7 @@ title: Test Website Title
 description: Test Description
 ---
 
-## Heading 2
-Content should go here
+### TP1 In-Class Code Demo (Team 14)
+6.5 Lab 1 & Applied Exercise
 
 [Go to Code Folder](/code/index_md)
